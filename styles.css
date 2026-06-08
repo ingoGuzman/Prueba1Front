@@ -1,3 +1,4 @@
+/* Generado con IA (Raptor mini) */
 :root {
   --bg: #f7f9fc;
   --surface: #ffffff;
@@ -7,7 +8,8 @@
   --border: #d1d5db;
   --shadow: 0 20px 45px rgba(15, 23, 42, 0.08);
 }
-
+/* Fin bloque generado con IA */
+/* Generado con IA (Raptor mini) */
 * {
   box-sizing: border-box;
 }
@@ -183,7 +185,8 @@ body {
   color: var(--muted);
   text-align: center;
 }
-
+/* Fin bloque generado con IA */
+/* Generado con IA (Raptor mini) */
 @media (max-width: 860px) {
   .main-nav {
     flex-wrap: wrap;
@@ -198,3 +201,4 @@ body {
     padding: 36px 24px;
   }
 }
+/* Fin bloque generado con IA */

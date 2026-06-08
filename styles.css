@@ -41,10 +41,22 @@ body {
   gap: 10px;
   font-size: 1.1rem;
 }
-
+/*
 .main-nav {
   display: flex;
   gap: 24px;
+}
+*/
+.main-nav-menu {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    list-style:none;
+    gap: 20px;
+}
+
+.main-nav-menu li{
+    width:fit-content;
 }
 
 .main-nav a {
